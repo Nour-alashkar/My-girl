@@ -59,9 +59,9 @@ h1 {
 }
 
 .hContent .btn1 {
-  background-color: #8e7754;
-  border: 2px solid transparent;
-  margin-right: 6px;
+  background-color: transparent;
+
+  border: 2px solid white;
 }
 
 .hContent .btn2 {
